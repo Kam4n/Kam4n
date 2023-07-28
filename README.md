@@ -1,15 +1,15 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h2 align="center">Kamran Ahmadoff</h2>
+  <h2 align="center">Kamran Ehmedov</h2>
 </p>
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ber4tbey.Ber4tbey" width="1">
+
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👀;He+is+Ber4tbey....;Welcome+to+my+Github+Profile!&center=true&size=23">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👀;He+is+Kamran....;Welcome+to+my+Github+Profile!&center=true&size=23">
     </a>
   </h1>
 
